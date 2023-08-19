@@ -1,0 +1,1 @@
+[Click here to view the analysis and features engineering in nbviewer](https://nbviewer.org/github/Gbadegesin373/Malaria-Research-in-Africa/blob/main/Copy%20of%20Analysis%20and%20feature%20engineering.ipynb)
